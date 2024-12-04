@@ -1,0 +1,1 @@
+print("môj druhy komit")
